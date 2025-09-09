@@ -45,7 +45,7 @@ export const About: React.FC = () => {
           <motion.div className="flex-shrink-0" variants={itemVariants}>
             <div className="relative float">
               <img 
-                src="/media/Profile_picture.avif" 
+                src="/media/Profile_picture.webp"  
                 alt="Portrait of Nnaemeka Emmanuel" 
                 className="w-80 h-80 object-cover rounded-full shadow-dark ring-4 ring-primary/30" 
                 loading="lazy" 

@@ -179,7 +179,7 @@ export const Work: React.FC = () => {
               transition={{ duration: 0.3 }}
             >
               <img 
-                src="/media/perfomace_increase.jpg" 
+                src="/media/perfomace_increase.webp" 
                 alt="Results my work can bring you: increased performance chart" 
                 className="w-4/5 h-auto rounded-3xl shadow-dark ring-2 ring-primary/30 hover:ring-primary/50 transition-all duration-300" 
                 loading="lazy"

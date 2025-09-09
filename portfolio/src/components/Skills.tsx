@@ -74,7 +74,7 @@ export const Skills: React.FC = () => {
             >
               <div className="flex items-center justify-center gap-4 mb-4">
                 <img 
-                  src="/media/Premiere_Pro_logo.png" 
+                  src="/media/Premiere_Pro_logo.webp" 
                   alt="Premiere Pro logo" 
                   className="w-12 h-12 object-contain float"
                 />
@@ -93,7 +93,7 @@ export const Skills: React.FC = () => {
             >
               <div className="flex items-center justify-center gap-4 mb-4">
                 <img 
-                  src="/media/After_Effects_logo.png" 
+                  src="/media/After_Effects_logo.webp" 
                   alt="After Effects logo" 
                   className="w-12 h-12 object-contain float rounded-xl"
                   style={{ animationDelay: '1s' }}
